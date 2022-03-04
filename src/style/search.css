@@ -1,0 +1,12 @@
+input {
+	height: 30px;
+	border: 2px solid #b1aa4f;
+	border-radius: 25px;
+	padding: 4px;
+	padding-left: 10px;
+	width: 30%;
+	text-align: left;
+}
+div{
+	text-align: left;
+}

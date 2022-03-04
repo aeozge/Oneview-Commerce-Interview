@@ -1,0 +1,54 @@
+.App {
+	text-align: center;
+	margin-left: 90px;
+	margin-right: 100px;
+	font-family: "Times New Roman", Times, serif;
+	display: flex;
+	flex-direction: column;
+	
+  }
+  h2{
+	font-family: "Times New Roman", Times, serif;
+  }
+  h4{
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	border: 1px solid #dddddd;
+	border-radius: 25px;
+	padding: 9px;
+
+  }
+  table {
+	font-family: arial, sans-serif;
+	border: 2px solid #b1aa4f;
+	border-radius: 25px;
+	width: 100%;
+	
+  }
+  thead {
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  background: #b1aa4f;
+}
+  
+  td {
+	border: 1px solid #dddddd;
+	border-radius: 25px;
+	text-align: left; 
+	padding: 9px;
+  }
+  th{
+	text-align: center;
+	border: 1px solid #dddddd;
+	border-radius: 25px;
+	padding: 9px;
+  }
+  
+  .table-row:hover {
+	background-color: #97993b;
+	cursor: pointer;
+}
+  
+  
+
+  
